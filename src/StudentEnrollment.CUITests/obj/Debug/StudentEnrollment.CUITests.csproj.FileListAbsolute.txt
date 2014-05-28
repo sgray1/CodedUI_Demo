@@ -10,3 +10,10 @@ D:\Dev\FMS8\DemoTest\StudentEnrollment.CUITests\obj\Debug\StudentEnrollment.CUIT
 D:\Dev\FMS8\DemoTest\StudentEnrollment.CUITests\obj\Debug\StudentEnrollment.CUITests.pdb
 D:\Dev\FMS8\DemoTest\StudentEnrollment.CUITests\bin\Debug\nunit.framework.dll
 D:\Dev\FMS8\DemoTest\StudentEnrollment.CUITests\bin\Debug\nunit.framework.xml
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\bin\Debug\StudentEnrollment.CUITests.dll
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\bin\Debug\StudentEnrollment.CUITests.pdb
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\bin\Debug\nunit.framework.dll
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\bin\Debug\nunit.framework.xml
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\obj\Debug\StudentEnrollment.CUITests.csprojResolveAssemblyReference.cache
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\obj\Debug\StudentEnrollment.CUITests.dll
+D:\Dev\Git\CodedUI_Demo\src\StudentEnrollment.CUITests\obj\Debug\StudentEnrollment.CUITests.pdb
